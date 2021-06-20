@@ -7,6 +7,6 @@
 <div style="display:flex;justify-content:center;"><h4 class="list-item">✔️ Can center divs</h4></div>
 <div style="display:flex;justify-content:center;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ben9583&theme=monokai" style="margin-left:7px;margin-bottom:12px"/></div>
 <div style="display:flex;justify-content:center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ben9583&theme=monokai" style="margin-right:12px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ben9583&theme=monokai" style="margin-right:24px" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ben9583&theme=monokai" />
 </div>

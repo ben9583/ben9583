@@ -8,4 +8,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ben9583&theme=monokai" />
 </div>
 <br />
-<p>Learn more about me from <a href="https://ben9583.github.io/">my website</a>.
